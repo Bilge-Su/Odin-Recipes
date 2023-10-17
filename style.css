@@ -1,0 +1,68 @@
+.index img {
+    height: auto;
+    width: 900px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}  
+
+.index ul {
+    color: orangered;
+    font-size: 25px;
+    font-family: "Courıer New", monospace;
+    background-color: lightgray;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+
+ h1, p, h2, h3, ul, ol  {
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+ h1, h2, h3 {
+    font-size: 40px;
+}
+ p, ul, ol{
+    font-size: 20px;
+
+}
+
+ div img {
+    height: auto;
+    width:600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ h1{
+    color: rgb(100, 0, 0);
+    background-color: #98FB98;
+    border: dotted 10px #139413;
+    border-radius: 20px;
+}
+ p, #Description {
+    background-color: rgb(255, 228, 196);
+    border-radius: 20px;
+}
+ #ingredients, h3, ul {
+    background-color: rgb(225, 255, 130);
+    border-radius: 20px;
+}
+ #Steps, ol {
+    background-color: rgb(150, 255, 130);
+    border-radius: 20px;
+}
+/* centers the bullets of the ul*/
+ ul{
+    list-style-position: inside;
+}
+ .image-container{
+    background-color: rgb(255, 150, 150);
+    border-radius: 20px;
+}
+
+
+
